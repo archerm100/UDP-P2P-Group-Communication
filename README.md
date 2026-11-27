@@ -287,7 +287,7 @@ RPGP demonstrates how reliable group communication and distributed file sharing 
 | Name | GitHub |
 |---|---|
 | Saad Younas | [archerm100](https://github.com/archerm100) |
-| Talha Saeed | [Talh2218](https://github.com/Talha2218) |
+| Talha Saeed | [Talha2218](https://github.com/Talha2218) |
 
 ### Academic Information
 
