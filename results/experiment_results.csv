@@ -1,0 +1,25 @@
+Metric,Value,Unit
+Active peers,4,peers
+File size,1048576,bytes
+Chunk size,262144,bytes
+Confirmed remote replicas,8,chunks
+Replication time,0.543,seconds
+Normal download time,2.032,seconds
+Owner offline download time,2.119,seconds
+Replication packets sent,1875,packets
+Replication packets acknowledged,1875,packets
+Simulated loss rate,30,percent
+Loss test packets sent,30,packets
+Loss test packets acknowledged,30,packets
+Loss test retransmissions,49,packets
+Loss test simulated drops,33,packets
+Loss test failed packets,0,packets
+File test simulated loss,10,percent
+File loss replication time,5.616,seconds
+File loss packets sent,1875,packets
+File loss packets acknowledged,1875,packets
+File loss retransmissions,379,packets
+File loss simulated drops,203,packets
+File loss failed packets,0,packets
+File loss confirmed replicas,8,chunks
+File loss download time,2.019,seconds
